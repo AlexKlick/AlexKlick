@@ -1,4 +1,6 @@
-
+[vscode]: https://github.com/Microsoft/vscode
+[vue]: https://github.com/vuejs/vue
+[bootstrap]: https://github.com/twbs/bootstrap
 
 Hi, I'm a software engineer who enjoys the journey of learning and developing new skills. I have always had a love of science and the scientific method. In college, I studied mathematics and economics and came to the realization that science without philosophy can be a hollow endeavor. It drove me to question my assumptions about life and what my goals are. I know now that I have a passion for building things and take pride in putting my best work forward. Through learning at Turing School Of Software Design, I got to meet and collaborate with some truly talented and intelligent engineers. This journey has been both enlightening and humbling as I've discovered my calling in life. 
 
