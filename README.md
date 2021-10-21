@@ -9,3 +9,4 @@ I am currently working on becoming the best Ruby on Rails and SQL programmer I c
 
 [![LinkedIn: alexklick][linkedin-badge]][LinkedIn]
 
+![Git][git-badge]
