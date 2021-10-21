@@ -6,5 +6,5 @@ I am currently working on becoming the best Ruby on Rails and SQL programmer I c
 <!-- badges: start -->
 [vscode]: https://github.com/Microsoft/vscode
 
-[![Contributors][contributors-shield]](https://www.github.com/AlexKlick/viewing_party/contributors)
+![dependencies](https://img.shields.io/badge/dependencies-out%20of%20date-orange)
 <!-- badges: end -->
