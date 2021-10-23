@@ -5,7 +5,7 @@ When I'm not coding, I enjoy reading and watching sci-fi, hiking, skiing and pla
 I am currently working on becoming the best Ruby on Rails and SQL programmer I can be. I believe that the best back end will allow for rapid and unencumbered front end development. I also enjoy full stack development with experience building apps in react. I also dabble a little in python and find machine learning to be especially cool! My background in math and econ exposed me to some of the statistical concepts and this is an area that I would enjoy slowly gaining some more knowledge in!
 
 
-<img src="https://user-images.githubusercontent.com/60951642/138542739-dd89174b-36e7-4891-a0da-3a350cd6f703.png" width="100" height="100"> ### Frameworks
+### <img src="https://user-images.githubusercontent.com/60951642/138542739-dd89174b-36e7-4891-a0da-3a350cd6f703.png" width="25" height="25"> Frameworks
 </br>
 
 ![RubyOnRails][rails-badge]
