@@ -6,7 +6,7 @@ I am currently working on becoming the best Ruby on Rails and SQL programmer I c
 
 ![RubyOnRails][rails-badge]
 <!-- badges: start -->
-[rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=black
+[rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails?&style=for-the-badge&logo=rubyonrails&logoColor=red
 
 [ruby-badge]: https://img.shields.io/badge/ruby-345d3c.svg?&style=for-the-badge&logo=ruby&logoColor=white
 [html-badge]: https://img.shields.io/badge/html5-345d3c.svg?&style=for-the-badge&logo=html5&logoColor=white
