@@ -11,8 +11,7 @@ I am currently working on becoming the best Ruby on Rails and SQL programmer I c
 
 ![RubyOnRails][rails-badge]
 
-### <img src="(https://user-images.githubusercontent.com/60951642/138543068-6dfc346b-af15-4fd9-9f8b-475ebbe34bf2.png" width="25" height="25"> Methodologies 
-![image](https://user-images.githubusercontent.com/60951642/138543678-0df34dc2-6c60-4974-bbb3-ec5de39e1e00.png)
+### <img src="https://user-images.githubusercontent.com/60951642/138543068-6dfc346b-af15-4fd9-9f8b-475ebbe34bf2.png" width="25" height="25"> Methodologies 
 
 <!-- badges: to use
 visualstudiocode
