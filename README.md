@@ -108,5 +108,5 @@ macos
 [mvc-badge]: https://img.shields.io/badge/MVC-345d3c.svg?&style=plastice&logo=MVC&logoColor=white
 [rest-badge]: https://img.shields.io/badge/REST-345d3c.svg?&style=plastic&logo=REST&logoColor=white
 
-[node]: https://img.shields.io/badge/Ruby%20on%20Rails-345d3c.svg?style=plastic&logo=nodedotjs&logoColor=green&color=black
+[node]: https://img.shields.io/badge/Node.js-345d3c.svg?style=plastic&logo=nodedotjs&logoColor=green&color=black
 <!-- badges: end -->
