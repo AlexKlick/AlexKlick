@@ -7,9 +7,10 @@ When I'm not coding, I enjoy reading and watching sci-fi, hiking, skiing and pla
 
 I am currently working on becoming the best Ruby on Rails and SQL programmer I can be. I believe that the best back end will allow for rapid and unencumbered front end development. I also enjoy full stack development with experience building apps in react. I also dabble a little in python and find machine learning to be especially cool! My background in math and econ exposed me to some of the statistical concepts and this is an area that I would enjoy slowly gaining some more knowledge in!
 
-# <img src="https://user-images.githubusercontent.com/60951642/138542739-dd89174b-36e7-4891-a0da-3a350cd6f703.png" width="25" height="25"> Frameworks
+# <img src="https://user-images.githubusercontent.com/60951642/138542739-dd89174b-36e7-4891-a0da-3a350cd6f703.png" width="25" height="25"> Frameworks 
 
 ![RubyOnRails][rails-badge]
+![express][express]
 
 
 # <img src="https://user-images.githubusercontent.com/60951642/138543068-6dfc346b-af15-4fd9-9f8b-475ebbe34bf2.png" width="25" height="25"> Methodologies 
@@ -56,6 +57,7 @@ travisci
 typescript
 ubuntu
 macos
+
 ![programming language](https://user-images.githubusercontent.com/60951642/138568095-ed7701e3-493f-4e93-b9ff-81b2b8e9fbb7.png)
 ![modular](https://user-images.githubusercontent.com/60951642/138543230-2c96d0ba-26ea-4e67-b59d-ec7d6bc5ae71.png)
 ![agile](https://user-images.githubusercontent.com/60951642/138543838-76a13011-3651-452c-9dfb-56bd2eca7161.png)
@@ -63,7 +65,7 @@ macos
 -->
 
 [rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-345d3c.svg?style=plastic&logo=rubyonrails&logoColor=black&color=red
-
+[express]: https://img.shields.io/badge/Node%20Express-345d3c.svg?style=plastic&logo=express&logoColor=green&color=green
 [ruby-badge]: https://img.shields.io/badge/ruby-345d3c.svg?&style=for-the-badge&logo=ruby&logoColor=white
 [html-badge]: https://img.shields.io/badge/html5-345d3c.svg?&style=for-the-badge&logo=html5&logoColor=white
 [css-badge]: https://img.shields.io/badge/css3-345d3c.svg?&style=for-the-badge&logo=css3&logoColor=white
