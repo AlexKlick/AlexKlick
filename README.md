@@ -72,7 +72,7 @@ macos
 -->
 
 [github-stats-image]: https://github-readme-stats.vercel.app/api?username=alexklick&theme=vue&show_icons=true
-[postgresql]: https://img.shields.io/badge/postgresql-345d3c.svg?style=plastic&logo=postgresql&logoColor=black&color=white
+[postgresql]: https://img.shields.io/badge/PostgreSQL-345d3c.svg?style=plastic&logo=postgresql&logoColor=black&color=blue
 [javascript]: https://img.shields.io/badge/javascript-345d3c.svg?style=plastic&logo=javascript&logoColor=black&color=yellow
 [rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-345d3c.svg?style=plastic&logo=rubyonrails&logoColor=black&color=red
 [express]: https://img.shields.io/badge/Node%20Express-345d3c.svg?style=plastic&logo=express&logoColor=green&color=green
@@ -86,7 +86,6 @@ macos
 [github-badge]: https://img.shields.io/badge/GitHub-345d3c.svg?&style=plastic&logo=github&logoColor=white
 [heroku-badge]: https://img.shields.io/badge/Heroku-345d3c.svg?&style=plastic&logo=heroku&logoColor=white
 [hound-badge]: https://img.shields.io/badge/hound-345d3c.svg?&style=plastic&logo=hound&logoColor=white
-[postgresql-badge]: https://img.shields.io/badge/PostgreSQL-345d3c.svg?&style=plastic&logo=postgresql&logoColor=white
 [postico-badge]: https://img.shields.io/badge/postico-345d3c.svg?&style=plastic&logo=Postico&logoColor=white
 [postman-badge]: https://img.shields.io/badge/Postman-345d3c.svg?&style=plastic&logo=postman&logoColor=white
 [slack-badge]: https://img.shields.io/badge/Slack-345d3c.svg?&style=plastic&logo=slack&logoColor=white
