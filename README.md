@@ -15,6 +15,7 @@ I am currently working on becoming the best Ruby on Rails and SQL programmer I c
 ![][css-badge]
 ![][javascript]
 ![][postgresql]
+![][react]
 # <img src="https://user-images.githubusercontent.com/60951642/138543068-6dfc346b-af15-4fd9-9f8b-475ebbe34bf2.png" width="25" height="25"> Methodologies 
 ![][agile]
 ![rest][rest-badge]
@@ -71,7 +72,7 @@ macos
 ![tools](https://user-images.githubusercontent.com/60951642/138613797-fef69bd7-2f2f-428b-88e9-72749314e56f.png)
 ![oop](https://user-images.githubusercontent.com/60951642/138613889-4751da29-1049-427f-a2ad-6ca27e1231df.png)
 -->
-
+[react]: https://img.shields.io/badge/ReactJS-345d3c.svg?style=plastic&logo=react&logoColor=lightblack&color=darkgrey
 [github-stats-image]: https://github-readme-stats.vercel.app/api?username=alexklick&theme=vue&show_icons=true
 [postgresql]: https://img.shields.io/badge/PostgreSQL-345d3c.svg?style=plastic&logo=postgresql&logoColor=black&color=blue
 [javascript]: https://img.shields.io/badge/javascript-345d3c.svg?style=plastic&logo=javascript&logoColor=black&color=yellow
