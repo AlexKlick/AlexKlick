@@ -105,7 +105,7 @@ macos
 [pry-badge]: https://img.shields.io/badge/pry-345d3c.svg?&style=plastic&logo=rubygems&logoColor=white
 [rspec-badge]: https://img.shields.io/badge/rspec-345d3c.svg?&style=plastic&logo=rubygems&logoColor=white
 [rubocop-badge]: https://img.shields.io/badge/RuboCop-345d3c.svg?&style=plastic&logo=rubygems&logoColor=white
-[sass-badge]: https://img.shields.io/badge/Sass-345d3c.svg?&style=plastic&logo=sass&logoColor=white
+[sass-badge]: https://img.shields.io/badge/Sass-345d3c.svg?&style=plastic&logo=sass&logoColor=white&color=pink
 [shoulda-matchers-badge]: https://img.shields.io/badge/shoulda--matchers-345d3c.svg?&style=plastic&logo=rubygems&logoColor=white
 [simplecov-badge]: https://img.shields.io/badge/simplecov-345d3c.svg?&style=plastic&logo=rubygems&logoColor=white
 [vcr-badge]: https://img.shields.io/badge/vcr-345d3c.svg?&style=plastic&logo=rubygems&logoColor=white
