@@ -16,6 +16,7 @@ I am currently working on becoming the best Ruby on Rails and SQL programmer I c
 ![][javascript]
 ![][postgresql]
 ![][react]
+![][sass-badge]
 # <img src="https://user-images.githubusercontent.com/60951642/138543068-6dfc346b-af15-4fd9-9f8b-475ebbe34bf2.png" width="25" height="25"> Methodologies 
 ![][agile]
 ![rest][rest-badge]
